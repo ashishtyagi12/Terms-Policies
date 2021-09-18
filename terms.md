@@ -1,14 +1,7 @@
 **PRIVACY NOTICE**
 
-\
-
 **Last updated September 18, 2021**
 
-\
-
-\
-
-\
 
 Thank you for choosing to be part of our community at Food Story LLC.
 ("**Company**," "**we**," "**us**," or "**our**"). We are committed to
@@ -17,7 +10,6 @@ have any questions or concerns about this privacy notice or our
 practices with regard to your personal information, please contact us at
 foodstory.us@gmail.com.
 
-\
 
 This privacy notice describes how we might use your information if you:
 
