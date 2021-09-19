@@ -70,7 +70,7 @@ YOU?](#request)
 
 **Personal information you disclose to us**
 
-**In Short:*We collect personal information that you provide
+**In Short:** *We collect personal information that you provide
 to us.*
 
 We collect personal information that you voluntarily provide to us when
@@ -100,7 +100,7 @@ information.
 
 **Information collected through our App**
 
-**In Short: *We collect information regarding your
+**In Short:** *We collect information regarding your
 geolocation, when you use our App.*
 
 If you use our App, we also collect the following information:
@@ -118,7 +118,7 @@ and reporting purposes.
 **2. HOW DO WE USE YOUR INFORMATION?**
 
 
-***In Short:  ****We process your information for purposes based on
+**In Short:** *We process your information for purposes based on
 legitimate business interests, the fulfillment of our contract with you,
 compliance with our legal obligations, and/or your consent.*
 
@@ -147,22 +147,22 @@ We use the information we collect or receive:
     please contact us at foodstory.us@gmail.com and be sure to include
     your name, testimonial location, and contact information.
 
--   **Request feedback. **We may use your information to request
+-   **Request feedback.** We may use your information to request
     feedback and to contact you about your use of our App.
 
 -   **To enable user-to-user communications.** We may use your
     information in order to enable user-to-user communications with each
     user's consent.
 
--   **To manage user accounts. **We may use your information for the
+-   **To manage user accounts.** We may use your information for the
     purposes of managing our account and keeping it in working order.
 
--   **To send administrative information to you. **We may use your
+-   **To send administrative information to you.** We may use your
     personal information to send you product, service and new feature
     information and/or information about changes to our terms,
     conditions, and policies.
 
--   **To protect our Services. **We may use your information as part of
+-   **To protect our Services.** We may use your information as part of
     our efforts to keep our App safe and secure (for example, for fraud
     monitoring and prevention).
 
@@ -170,11 +170,11 @@ We use the information we collect or receive:
     purposes, to comply with legal and regulatory requirements or in
     connection with our contract.**
 
--   **To respond to legal requests and prevent harm. **If we receive a
+-   **To respond to legal requests and prevent harm.** If we receive a
     subpoena or other legal request, we may need to inspect the data we
     hold to determine how to respond.
 
--   **Fulfill and manage your orders. **We may use your information to
+-   **Fulfill and manage your orders.** We may use your information to
     fulfill and manage your orders, payments, returns, and exchanges
     made through the App.
 
@@ -217,7 +217,7 @@ We use the information we collect or receive:
 **3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
 
 
-***In Short:****  We only share information with your consent, to comply
+**In Short:** *We only share information with your consent, to comply
 with laws, to provide you with services, to protect your rights, or to
 fulfill business obligations.*
 
@@ -271,7 +271,7 @@ personal information in the following situations:
     joint venture partners or other companies that we control or that
     are under common control with us.
 
--   **Business Partners. **We may share your information with our
+-   **Business Partners.** We may share your information with our
     business partners to offer you certain products, services or
     promotions.
 
@@ -279,7 +279,7 @@ personal information in the following situations:
 **4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 
 
-***In Short: **** We may use cookies and other tracking technologies to
+***In Short:*** *We may use cookies and other tracking technologies to
 collect and store your information.*
 
 
@@ -291,7 +291,7 @@ set out in our Cookie Notice.
 
 **5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**     
 
-***In Short:  ****We may transfer, store, and process your information
+***In Short:*** *We may transfer, store, and process your information
 in countries other than your own.*
 
 Our servers are located in. If you are accessing our App from outside,
@@ -309,7 +309,7 @@ applicable law.
 
 **6. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
-***In Short: **** We keep your information for as long as necessary to
+***In Short:*** *We keep your information for as long as necessary to
 fulfill the purposes outlined in this privacy notice unless otherwise
 required by law.*
 
@@ -332,7 +332,7 @@ processing until deletion is possible.
 **7. HOW DO WE KEEP YOUR INFORMATION SAFE?**
 
 
-***In Short: **** We aim to protect your personal information through a
+***In Short:*** *We aim to protect your personal information through a
 system of organizational and technical security measures.*
 
 
@@ -351,7 +351,7 @@ access the App within a secure environment.
 
 **8. WHAT ARE YOUR PRIVACY RIGHTS?**
 
-***In Short:****  **You may review, change, or terminate your account at
+***In Short:*** *You may review, change, or terminate your account at
 any time.*
 
 
@@ -370,9 +370,7 @@ protection authorities are available here:
 If you have questions or comments about your privacy rights, you may
 email us at foodstory.us@gmail.com.
 
-**\
-****Account Information**
-
+**Account Information**
 
 If you would at any time like to review or change the information in
 your account or terminate your account, you can:
@@ -413,7 +411,7 @@ practice in a revised version of this privacy notice. 
 
 **10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
-***In Short: **** Yes, if you are a resident of California, you are
+***In Short:*** *Yes, if you are a resident of California, you are
 granted specific rights regarding access to your personal information.*
 
 
@@ -439,10 +437,7 @@ backups, etc.).
 
 **11. DO WE MAKE UPDATES TO THIS NOTICE?**     
 
-*\
-*
-
-***In Short: ** Yes, we will update this notice as necessary to stay
+***In Short:*** *Yes, we will update this notice as necessary to stay
 compliant with relevant laws.*
 
 We may update this privacy notice from time to time. The updated version
