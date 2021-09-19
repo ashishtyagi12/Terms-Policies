@@ -71,8 +71,6 @@ YOU?](#request)
 **\
 ****Personal information you disclose to us**
 
-\
-
 ***In Short: ****** ****We collect personal information that you provide
 to us.*
 
