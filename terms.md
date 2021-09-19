@@ -76,27 +76,19 @@ YOU?](#request)
 ***In Short: ****** ****We collect personal information that you provide
 to us.*
 
-\
-
 We collect personal information that you voluntarily provide to us when
 you register on the App, express an interest in obtaining information
 about us or our products and Services, when you participate in
 activities on the App or otherwise when you contact us.
-
-\
 
 The personal information that we collect depends on the context of your
 interactions with us and the App, the choices you make and the products
 and features you use. The personal information we collect may include
 the following:
 
-\
-
 **Personal Information Provided by You.** We collect names; phone
 numbers; email addresses; mailing addresses; usernames; and other
 similar information.
-
-\
 
 **Payment Data.** We may collect data necessary to process your payment
 if you make purchases, such as your payment instrument number (such as a
@@ -104,8 +96,6 @@ credit card number), and the security code associated with your payment
 instrument. All payment data is stored by Stripe. You may find their
 privacy notice link(s) here:
 [https://stripe.com/gb/privacy](https://stripe.com/gb/privacy).
-
-\
 
 All personal information that you provide to us must be true, complete
 and accurate, and you must notify us of any changes to such personal
