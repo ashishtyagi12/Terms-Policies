@@ -68,10 +68,9 @@ YOU?](#request)
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
-**\
-****Personal information you disclose to us**
+**Personal information you disclose to us**
 
-***In Short: ****** ****We collect personal information that you provide
+**In Short:*We collect personal information that you provide
 to us.*
 
 We collect personal information that you voluntarily provide to us when
@@ -99,10 +98,9 @@ All personal information that you provide to us must be true, complete
 and accurate, and you must notify us of any changes to such personal
 information.
 
-**\
-****Information collected through our App**
+**Information collected through our App**
 
-***In Short: ****** ****We collect information regarding your
+**In Short: *We collect information regarding your
 geolocation, when you use our App.*
 
 If you use our App, we also collect the following information:
